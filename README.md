@@ -2,11 +2,14 @@
 
 A modern and customizable QR Code Generator built with **Python, Streamlit, HTML, CSS, and JavaScript**.
 
-Create QR codes for different types of content and customize their appearance with colours, dot styles, and custom logos.
+## 🚀 Live Demo
+
+🔗 **Try the application:**  
+https://qrstudio.streamlit.app/
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 - 🔗 Generate QR codes for URLs
 - 💬 Generate WhatsApp QR codes
